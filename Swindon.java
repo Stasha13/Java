@@ -1,3 +1,0 @@
-class Swindon{
-	int A
-}

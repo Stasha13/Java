@@ -15,7 +15,12 @@ class testbank{
 		nbs = new bank();
 		hsbc.setdollar(100);
 		nbs.amount(2);
-		nbs.setdollar(50);
+		hsbc.amount(50);
 		natwest.amount(2);
+		hsbc.setdollar(50);
+		nbs.amount(2);
+		hsbc.amount(50);
+		natwest.amount(2);
+
 	}
 }
